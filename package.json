@@ -1,0 +1,18 @@
+{
+  "name": "mypackage.js",
+  "version": "0.0.0",
+  "description": "node.js for C# by Sap",
+  "main": "main.js",
+  "scripts": {
+    "test": "orange"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Simarsukh/CSD3354-week12.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "\" \"",
+  "license": "BSD-3-Clause"
+}
